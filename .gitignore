@@ -75,3 +75,6 @@ json/.vscode/
 .git/
 .gitignore
 .vscode/settings.json
+
+# Ignore visual studio
+.vs/
